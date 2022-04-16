@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-plus:12.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c361a1bd55ff69c7a3ae5e1fcf417346/jetified-play-services-plus-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c361a1bd55ff69c7a3ae5e1fcf417346/jetified-play-services-plus-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c361a1bd55ff69c7a3ae5e1fcf417346/jetified-play-services-plus-12.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/50dc23117aa3f04ddfaf6d964a9ca20e/jetified-play-services-plus-12.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/50dc23117aa3f04ddfaf6d964a9ca20e/jetified-play-services-plus-12.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/50dc23117aa3f04ddfaf6d964a9ca20e/jetified-play-services-plus-12.0.1/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0de0c2ad7494f0f60b4c293074b402a2/jetified-play-services-plus-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0de0c2ad7494f0f60b4c293074b402a2/jetified-play-services-plus-12.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0de0c2ad7494f0f60b4c293074b402a2/jetified-play-services-plus-12.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3d19f1a7d0d63c3de274f4f148155823/transformed/jetified-play-services-plus-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3d19f1a7d0d63c3de274f4f148155823/transformed/jetified-play-services-plus-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3d19f1a7d0d63c3de274f4f148155823/transformed/jetified-play-services-plus-12.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

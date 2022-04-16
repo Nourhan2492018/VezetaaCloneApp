@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-messaging:12.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e3ef573bb9bf61da047b7abe39ff96fc/jetified-firebase-messaging-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e3ef573bb9bf61da047b7abe39ff96fc/jetified-firebase-messaging-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e3ef573bb9bf61da047b7abe39ff96fc/jetified-firebase-messaging-12.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2dade40d9ea76893719021545a714262/jetified-firebase-messaging-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2dade40d9ea76893719021545a714262/jetified-firebase-messaging-12.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2dade40d9ea76893719021545a714262/jetified-firebase-messaging-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/27af7ed404e1d82312773de6e5cfe190/jetified-firebase-messaging-12.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/27af7ed404e1d82312773de6e5cfe190/jetified-firebase-messaging-12.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/27af7ed404e1d82312773de6e5cfe190/jetified-firebase-messaging-12.0.1/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/302ba7e63093d5620e1e87a1dd3ec7c3/transformed/jetified-firebase-messaging-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/302ba7e63093d5620e1e87a1dd3ec7c3/transformed/jetified-firebase-messaging-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/302ba7e63093d5620e1e87a1dd3ec7c3/transformed/jetified-firebase-messaging-12.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-ads-lite:12.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e1c2d67f5a8811deb7f9437c4c4d2a93/jetified-play-services-ads-lite-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e1c2d67f5a8811deb7f9437c4c4d2a93/jetified-play-services-ads-lite-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e1c2d67f5a8811deb7f9437c4c4d2a93/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bb581ffa3a31e4a1e88253e1e13c9c92/jetified-play-services-ads-lite-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bb581ffa3a31e4a1e88253e1e13c9c92/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bb581ffa3a31e4a1e88253e1e13c9c92/jetified-play-services-ads-lite-12.0.1/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1b60a853c5baa09d40b9aa693e53bf73/jetified-play-services-ads-lite-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1b60a853c5baa09d40b9aa693e53bf73/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1b60a853c5baa09d40b9aa693e53bf73/jetified-play-services-ads-lite-12.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/02f4d73ac7de2ed0f7ebc6572c2d2d84/transformed/jetified-play-services-ads-lite-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/02f4d73ac7de2ed0f7ebc6572c2d2d84/transformed/jetified-play-services-ads-lite-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/02f4d73ac7de2ed0f7ebc6572c2d2d84/transformed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
