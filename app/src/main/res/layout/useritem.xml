@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/usernameLinear"
+    android:padding="10dp">
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/profile_image"
+        android:layout_width="56dp"
+        android:layout_height="48dp"
+        android:src="@drawable/profile" />
+
+    <TextView
+        android:id="@+id/UserName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="18dp"
+        android:layout_marginLeft="18dp"
+        android:layout_toEndOf="@+id/profile_image"
+        android:layout_toRightOf="@+id/profile_image"
+
+
+        android:text="Username"
+        android:textColor="#1E3F4E"
+        android:textColorHighlight="#285980"
+        android:textSize="20sp"></TextView>
+
+    <TextView
+        android:id="@+id/lastMsg"
+        android:layout_width="225dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/UserName"
+        android:layout_marginStart="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="6dp"
+        android:layout_toEndOf="@+id/profile_image"
+        android:layout_toRightOf="@+id/profile_image"
+        android:textColor="#000000"
+        android:textColorHighlight="#000000"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/timeView"
+        android:layout_width="64dp"
+        android:layout_height="22dp"
+        android:layout_below="@id/profile_image"
+        android:layout_marginStart="27dp"
+
+
+        android:layout_marginLeft="27dp"
+        android:layout_marginTop="-16dp"
+        android:layout_toEndOf="@id/lastMsg"
+        android:layout_toRightOf="@id/lastMsg"
+        android:text="TextView" />
+</RelativeLayout>
